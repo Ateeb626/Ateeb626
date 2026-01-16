@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! I'm Ateeb Ahmed, a machine learning engineer interested in building reliable LLM-powered systems. I enjoy working on agents, RAG pipelines, and traditional machine learning systems.<br><br>• 🌱 I’m currently working with LLMs, agentic workflows, and Retrieval-Augmented Generation (RAG)  <br>• 🧠 I enjoy building practical AI systems rather than just demos  <br>• 💬 Ask me about Machine Learning, LLMs, agents, RAG, FastAPI, and MLOps <br>• 📫 How to reach me: ateebah626@email.com  <br><br>
+Hi there! I'm Ateeb Ahmed, a data scientist interested in building reliable LLM-powered systems. I enjoy working on agents, RAG pipelines, and traditional machine learning systems. I am currently pursuing my **M.Sc. in Data Science and Artificial Intelligence at Saarland University**.  
+<br><br>
+• 🌱 I’m currently working with LLMs, agentic workflows, and Retrieval-Augmented Generation (RAG)  
+• 🔬 I’m interested in research on LLM systems, reasoning, and retrieval-based methods  
+• 🧠 I enjoy building practical AI systems rather than just demos  
+• 💬 Ask me about Machine Learning, LLMs, agents, RAG, FastAPI, and MLOps  
+• 📫 How to reach me: ateebah626@email.com  
+<br><br>
 
 
 ## 🌐 Socials:
