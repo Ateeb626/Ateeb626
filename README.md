@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Ateeb Ahmed, a machine learning engineer interested in building reliable LLM-powered systems. I enjoy working on agents, RAG pipelines, and traditional machine learning systems..<br><br>• 🌱 I’m currently working with LLMs, agentic workflows, and Retrieval-Augmented Generation (RAG)  <br>• 🧠 I enjoy building practical AI systems rather than just demos  <br>• 💬 Ask me about Machine Learning, LLMs, agents, RAG, FastAPI, and MLOps <br>• 📫 How to reach me: ateebah626@email.com  <br><br>
+Hi there! I'm Ateeb Ahmed, a machine learning engineer interested in building reliable LLM-powered systems. I enjoy working on agents, RAG pipelines, and traditional machine learning systems.<br><br>• 🌱 I’m currently working with LLMs, agentic workflows, and Retrieval-Augmented Generation (RAG)  <br>• 🧠 I enjoy building practical AI systems rather than just demos  <br>• 💬 Ask me about Machine Learning, LLMs, agents, RAG, FastAPI, and MLOps <br>• 📫 How to reach me: ateebah626@email.com  <br><br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,3 @@ Hi there! I'm Ateeb Ahmed, a machine learning engineer interested in building re
 ![](https://github-readme-stats.vercel.app/api?username=ateeb626&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ateeb626&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ateeb626&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ateeb626&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
